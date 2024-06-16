@@ -1,1 +1,1 @@
-# tThai-license-plate-detection
+# thai-license-plate-detection
